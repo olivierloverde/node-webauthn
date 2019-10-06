@@ -2,6 +2,7 @@
 - Implement license-checker
 - Implement linter
 - Implement unit test + report + code coverage + test CI
+- Use coveralls.io ?
 - Implement JavaScript Standard Style using Standard NPM package
 - Implement greenkeeper
 - Use rfdc for deep cloning of object
