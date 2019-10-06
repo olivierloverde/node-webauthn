@@ -1,19 +1,15 @@
 <div align="center">
--- Project is currently in active development. First pieces of code will be released soon. --
--> See our [To do](./todo.md).
-</div>
-
-<div align="center">
-Badge headline
-</div>
-
-<div align="center">
-Badge subline
+<b>Nodejs library for Webauthn W3C specification.</b>
 </div>
 
 <br />
 
-Nodejs library for Webauthn W3C specification.
+Project is currently in <b>active development</b>.
+First pieces of code will be released soon.
+
+Please, check our current [ToDo](./todo.md).
+
+<br />
 
 ### Install
 ...
