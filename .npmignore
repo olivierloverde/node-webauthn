@@ -1,0 +1,9 @@
+editorconfig
+.gitattributes
+.git
+.DS_Store
+.gitignore
+.github
+CODE_OF_CONDUCT.md
+CONTRIBUTING.md
+todo.md

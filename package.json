@@ -1,0 +1,33 @@
+{
+  "name": "node-webauthn",
+  "version": "0.0.1",
+  "description": "Nodejs library for Webauthn W3C specification.",
+  "main": "webauthn.js",
+  "typings": "webauthn.d.ts",
+  "scripts": {
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/olivierloverde/node-webauthn.git"
+  },
+  "keywords": [
+    "web",
+    "webauthn",
+    "open",
+    "security",
+    "auth",
+    "fido"
+  ],
+  "author": "Olivier Loverde <me@olivier.codes>",
+  "contributors": [],
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/olivierloverde/node-webauthn/issues"
+  },
+  "homepage": "https://github.com/olivierloverde/node-webauthn",
+  "engines": {
+    "node": ">=6"
+  },
+  "dependencies": {
+  }
+}
